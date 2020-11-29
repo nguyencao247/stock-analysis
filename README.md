@@ -7,15 +7,18 @@ Steve’s parents are interested in investing in green energy stocks. However, s
 
 ### Stock Performance
 After thoroughly analyzing the green energy stock performances between 2017 and 2018, the results can be shown below. 
-<img src="vba_table_2017.PNG" height="400"> <img src="vba_table_2018.PNG" height="400">
+<img src="Resources/vba_table_2017.png" height="500"> <img src="Resources/vba_table_2018.png" height="500">
 
 It looks like DQ dropped over 62% in 2018. A review of the other green energy stocks is recommended. After looking at all the stocks, 2018 was a bad year for green energy stocks. All stocks, except for ENPH and RUN had a negative return. Green energy stocks performed much better in 2017. This is also consistent for ENPH and RUN with positive yearly return percentages as well in 2017. From the tables above, we can best conclude that Steve’s parents should not put all their money in DQ but purchase some ENPH and RUN stocks as well. This is because both companies showed a positive yearly return percentage between 2017-2018, unlike their counterparts. 
 
 ### Execution Times
 After refactoring the original All Stocks Analysis code, the execution times were much quicker. See below for the times. The left side is the original code, the right is the refactored code. This is about a 0.5 seconds difference in both years.
-<img src="VBA_Challenge_2017.PNG" height="400"> <img src="refact_exec_time_2017.PNG" height="400">
 
-<img src="VBA_Challenge_2018.PNG" height="400"> <img src="refact_exec_time_2018.PNG" height="400">
+#### 2017 Original vs 2017 Refactored
+<img src="Resources/VBA_Challenge_2017.PNG" height="200"> <img src="Resources/refact_exec_time_2017.PNG" height="200">
+
+#### 2018 Original vs 2018 Refactored
+<img src="Resources/VBA_Challenge_2018.PNG" height="200"> <img src="Resources/refact_exec_time_2018.PNG" height="200">
 
 This was due to the following differences in each script: arrays and nested loops. 
 Four arrays were used instead of one to store variables of the same type more efficiently. In addition to the tickers array, three additional arrays were created below for the second and third columns of our stock analysis. 
