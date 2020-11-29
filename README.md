@@ -1,7 +1,7 @@
 # Analyzing Green Energy Stocks using VBA’s
 
 ## Overview
-Steve’s parents are interested in investing in green energy stocks. However, since they are not too informed about which stocks are the best, they put all their money in DAQO New Energy Corp (ticker: DQ). The purpose of this analysis is to review how DQ stocks compare against other green energy stocks. This project will compare the total daily volume and yearly return for all green energy stocks. With an analysis of these metrics, Steve’s parents can make a more informed decision about diversifying their green energy stock portfolio. The full analysis and raw stock data can be found in [VBA_Challenge.xlsm](link) workbook.
+Steve’s parents are interested in investing in green energy stocks. However, since they are not too informed about which stocks are the best, they put all their money in DAQO New Energy Corp (ticker: DQ). The purpose of this analysis is to review how DQ stocks compare against other green energy stocks. This project will compare the total daily volume and yearly return for all green energy stocks. With an analysis of these metrics, Steve’s parents can make a more informed decision about diversifying their green energy stock portfolio. The full analysis and raw stock data can be found in [VBA_Challenge.xlsm](https://github.com/nguyencao247/stock-analysis/blob/main/VBA_Challenge.xlsm) workbook.
 
 ## Results
 
