@@ -7,6 +7,7 @@ Steve’s parents are interested in investing in green energy stocks. However, s
 
 ### Stock Performance
 After thoroughly analyzing the green energy stock performances between 2017 and 2018, the results can be shown below. 
+
 <img src="Resources/vba_table_2017.png" height="400"> <img src="Resources/vba_table_2018.png" height="400">
 
 It looks like DQ dropped over 62% in 2018. A review of the other green energy stocks is recommended. After looking at all the stocks, 2018 was a bad year for green energy stocks. All stocks, except for ENPH and RUN had a negative return. Green energy stocks performed much better in 2017. This is also consistent for ENPH and RUN with positive yearly return percentages as well in 2017. From the tables above, we can best conclude that Steve’s parents should not put all their money in DQ but purchase some ENPH and RUN stocks as well. This is because both companies showed a positive yearly return percentage between 2017-2018, unlike their counterparts. 
