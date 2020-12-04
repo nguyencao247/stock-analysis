@@ -16,10 +16,10 @@ It looks like DQ dropped over 62% in 2018. A review of the other green energy st
 After refactoring the original All Stocks Analysis code, the execution times were much quicker. See below for the times. The left side is the original code, the right is the refactored code. This is about a 0.5 seconds difference in both years.
 
 #### 2017 Original vs 2017 Refactored
-<img src="Resources/VBA_Challenge_2017.PNG" height="200"> <img src="Resources/refact_exec_time_2017.PNG" height="200">
+<img src="Resources/refact_exec_time_2017.PNG" height="200"> <img src="Resources/VBA_Challenge_2017.PNG" height="200"> 
 
 #### 2018 Original vs 2018 Refactored
-<img src="Resources/VBA_Challenge_2018.PNG" height="200"> <img src="Resources/refact_exec_time_2018.PNG" height="200">
+ <img src="Resources/refact_exec_time_2018.PNG" height="200"> <img src="Resources/VBA_Challenge_2018.PNG" height="200">
 
 This was due to the following differences in each script: arrays and nested loops. 
 Four arrays were used instead of one to store variables of the same type more efficiently. In addition to the tickers array, three additional arrays were created below for the second and third columns of our stock analysis. 
